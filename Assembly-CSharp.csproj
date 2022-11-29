@@ -60,6 +60,8 @@
     <Compile Include="Assets\Scripts\InitialProximityCheck.cs" />
     <Compile Include="Assets\Scripts\PlayerManager.cs" />
     <Compile Include="Assets\Scripts\GameManagerScript.cs" />
+    <Compile Include="Assets\Scripts\SaveData.cs" />
+    <Compile Include="Assets\Scripts\SaveDataManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
